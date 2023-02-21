@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex002_HellowUser\\Ex002_HellowUser.csproj": {}
+    "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex003_Sum0\\Ex003_Sum0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex002_HellowUser\\Ex002_HellowUser.csproj": {
+    "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex003_Sum0\\Ex003_Sum0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex002_HellowUser\\Ex002_HellowUser.csproj",
-        "projectName": "Ex002_HellowUser",
-        "projectPath": "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex002_HellowUser\\Ex002_HellowUser.csproj",
+        "projectUniqueName": "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex003_Sum0\\Ex003_Sum0.csproj",
+        "projectName": "Ex003_Sum0",
+        "projectPath": "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex003_Sum0\\Ex003_Sum0.csproj",
         "packagesPath": "C:\\Users\\iv_dr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex002_HellowUser\\obj\\",
+        "outputPath": "C:\\Users\\iv_dr\\Desktop\\GB_C#\\Examples\\Ex003_Sum0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iv_dr\\AppData\\Roaming\\NuGet\\NuGet.Config"
